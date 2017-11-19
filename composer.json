@@ -1,0 +1,15 @@
+{
+    "name": "jaxwilko/steam-market-api",
+    "description": "A steam market api for tracking item info",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jack Wilkinson",
+            "email": "me@jackwilky.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": { "Steam": "src/" }
+    }
+}
